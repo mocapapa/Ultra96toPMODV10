@@ -10,7 +10,7 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 - Ultra96toPMODV10_2021-10-22.zip ---- Gerber data
 - Ultra96toPMODV10.mnt.zip ---- Pick & Place file for PCBA
 
-![image](https://user-images.githubusercontent.com/64763/183346908-adb0ae02-63a4-42bc-97a9-43a464008e69.png)
+![image](https://user-images.githubusercontent.com/64763/183346994-44b407e8-be8c-406c-8e7a-ee64af708129.png)
 
 ![image](https://user-images.githubusercontent.com/64763/142416727-d4559e5d-c0cb-467a-acd6-3caa70a12f92.png)
 
