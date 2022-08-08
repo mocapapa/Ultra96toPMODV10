@@ -13,3 +13,7 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 ![image](https://user-images.githubusercontent.com/64763/183347072-aa02bebf-6ecb-4c90-b478-86181b36bd81.png)
 
 ![image](https://user-images.githubusercontent.com/64763/183347653-14fc9460-2da2-4bb5-bef1-bcc6c386d05d.png)
+
+JLCPCBのGerber Viewrにより作成
+- 色変換 Top SOldermaskを0x00be00に(3回)
+- 色変換 Holeを黒色に
