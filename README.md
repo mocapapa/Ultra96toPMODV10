@@ -15,7 +15,7 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 ![image](https://user-images.githubusercontent.com/64763/183347653-14fc9460-2da2-4bb5-bef1-bcc6c386d05d.png)
 
 JLCPCBのGerber Viewrにより作成
-- 色変換 Top Solder Maskを0x00be00に(3回)
+- 色変換 Top Solder Maskを0x00be00に(円形のため3回必要)
 - 色変換 Holeを黒色に
 
 ![image](https://user-images.githubusercontent.com/64763/183350051-a72a8469-b3f4-40f1-b3a1-04dac5a4da81.png)
