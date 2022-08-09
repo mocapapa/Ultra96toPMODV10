@@ -9,6 +9,8 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 - Ultra96toPMODV10.sch ---- EAGLE schematic data
 - Ultra96toPMODV10_2021-10-22.zip ---- Gerber data
 - Ultra96toPMODV10.mnt.zip ---- Pick & Place file for PCBA
+- JLCPCB-PP-Ultra96toPMODV10_minimum.xlsx ---- Pick&Place file for JLCPCB
+- JLCPCB-Bom-Ultra96toPMODV10_minimum.xlsx ---- BOM file for JLCPCB
 
 ![image](https://user-images.githubusercontent.com/64763/183347072-aa02bebf-6ecb-4c90-b478-86181b36bd81.png)
 
