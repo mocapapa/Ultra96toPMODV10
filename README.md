@@ -13,8 +13,7 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 - JLCPCB-Bom-Ultra96toPMODV10_minimum.xlsx ---- BOM file for JLCPCB
 
 ![image](https://user-images.githubusercontent.com/64763/195345008-3075116b-8f72-4047-b607-dc9600bcffd0.png)
-
-![image](https://user-images.githubusercontent.com/64763/185552072-c6ce6e19-7d41-4c4b-843c-145f580f0eec.png)
+![image](https://user-images.githubusercontent.com/64763/195345285-9ac3afac-74b3-4ab3-95c1-5a75557c0deb.png)
 
 JLCPCBのGerber Viewrにより作成
 - 色変換 Top Solder Maskを0x00be00に(円形のため3回必要)
