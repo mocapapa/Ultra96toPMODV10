@@ -12,7 +12,9 @@ https://qiita.com/mocapapa/items/a2faa710503e4affa88b
 - JLCPCB-PP-Ultra96toPMODV10_minimum.xlsx ---- Pick&Place file for JLCPCB
 - JLCPCB-Bom-Ultra96toPMODV10_minimum.xlsx ---- BOM file for JLCPCB
 
-![image](https://user-images.githubusercontent.com/64763/195345008-3075116b-8f72-4047-b607-dc9600bcffd0.png)
+
+![image](https://user-images.githubusercontent.com/64763/196144213-1c7d49db-6bcd-4bc4-915d-025f9d349391.png)
+
 ![image](https://user-images.githubusercontent.com/64763/195345285-9ac3afac-74b3-4ab3-95c1-5a75557c0deb.png)
 
 JLCPCBのGerber Viewrにより作成
